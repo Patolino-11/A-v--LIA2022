@@ -4,7 +4,12 @@ No GitHub, gerentes e desenvolvedores de projetos coordenam, controlam e atualiz
 
 O GitHub é uma plataforma de desenvolvimento inspirada na maneira como você trabalha. Do código aberto aos negócios, você pode hospedar e revisar códigos, gerenciar projetos e criar software junto a 40 milhões de desenvolvedores. Eu
 
+![Image](./64c71002d999772c40293a46e4f2cc08.jpg) ![Image](./64c71002d999772c40293a46e4f2cc08.jpg
+
+! 
 O Github tem sim muita relação com o Git. GitHub é uma plataforma para gerenciar seu código e criar um ambiente de colaboração entre devs, utilizando o Git como sistema de controle. Ele vai facilitar o uso do Git, escondendo alguns detalhes mais complicados de setup. É lá que você provavelmente vai ter seu repositório e usar no dia a dia.
+
+[Image](./3b7b505f86a1a6f3b3118036a648482e.jpg) 
 
 O sistema web que ele possui permite que você altere arquivos lá mesmo, apesar de não ser muito aconselhado, pois você não terá um editor, um ambiente de desenvolvimento e testes. Para se comunicar com o github e mexer nos arquivos do seu reposítorio, você pode usar a linha de comando, usando o comando do git e suas diretivas de commit, pull e push. Parece assustador? Há uma alternativa: usar um aplicativo desktop mais intuitivo:
 
