@@ -19,3 +19,6 @@ As duas Batalhas dos Guararapes ocorreram no contexto da ocupação holandesa no
 Uma forma adotada pelos holandeses para atacar os espanhóis foi ocupar as colônias portuguesas. Para isso, a Holanda criou duas empresas de atuação internacional, as Companhias das Índias Ocidentais e Orientais. A primeira ficou responsável pela ocupação do Nordeste brasileiro, ação que se iniciou em 1624, na Bahia. Mas a permanência holandesa nesse local durou apenas um ano, já que foram expulsos em 1625."
 
 Veja mais sobre "Batalhas dos Guararapes (1648-1649)" em: https://brasilescola.uol.com.br/guerras/batalhas-dos-guararapes-1648-1649.htm
+
+
+![Image](./0ea755edafe0ce2b4d4c53b92eef2298.jpg)
