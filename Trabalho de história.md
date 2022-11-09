@@ -1,13 +1,18 @@
 ---
 created: 2022-11-08T20:40:34-03:00
-modified: 2022-11-08T20:59:36-03:00
+modified: 2022-11-08T21:01:39-03:00
 ---
 
 # Trabalho de história
 
-Pesquisa batalha dos Guararapei 
+# Pesquisa : batalha dos Guararapei 
 
-Aluno : Kauã Adriann
+# Aluno : Kauã Adriann
+
+
+
+
+
 
 
 "As Batalhas dos Guararapes foram as principais ações bélicas ocorridas no Nordeste brasileiro contra a presença dos holandeses na região. Deflagradas em abril de 1648 e fevereiro de 1649, as batalhas enfraqueceram as posições holandeses na colônia portuguesa, o que culminou com a saída dos flamengos em 1654.
