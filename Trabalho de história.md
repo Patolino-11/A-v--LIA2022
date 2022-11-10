@@ -1,13 +1,17 @@
 ---
 created: 2022-11-08T20:40:34-03:00
-modified: 2022-11-08T21:01:39-03:00
+modified: 2022-11-10T08:14:47-03:00
 ---
 
 # Trabalho de história
 
 # Pesquisa : batalha dos Guararapei 
 
+# prof : Diego
+
 # Aluno : Kauã Adriann
+
+# Classe : 8 ano B
 
 
 
